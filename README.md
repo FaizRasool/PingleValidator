@@ -3,7 +3,6 @@ Nextor Validator
 
 Nextor Validator class provide the validation for the user input on the server side. 
 
-
 Basic usage
 ------------
 ```php

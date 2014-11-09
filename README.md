@@ -8,7 +8,7 @@ Basic usage
 ------------
 ```php
 //include the validation class
-require_once("library/input_validate.php"); 
+require_once("library/Nextorvalidate.php"); 
 
 //initialize the class
 $val = new validation;

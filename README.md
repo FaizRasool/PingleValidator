@@ -6,6 +6,7 @@ Pingle Validator class provide the validation for the user input on the server s
 Basic usage
 ------------
 ```php
+
 namespace pingle/Validator;
 
 //initialize the class

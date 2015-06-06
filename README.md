@@ -1,7 +1,7 @@
 Pingle Validator
 ===============
 
-[![Latest Stable Version](https://poser.pugx.org/azi/validator/v/stable.svg)](https://packagist.org/packages/pingle/validator) [![Total Downloads](https://poser.pugx.org/azi/validator/downloads.svg)](https://packagist.org/packages/azi/validator) [![Latest Unstable Version](https://poser.pugx.org/azi/validator/v/unstable.svg)](https://packagist.org/packages/pingle/validator) [![License](https://poser.pugx.org/azi/validator/license.svg)](https://packagist.org/packages/pingle/validator) 
+[![Latest Stable Version](https://poser.pugx.org/azi/validator/v/stable.svg)](https://packagist.org/packages/pingle/validator) [![Total Downloads](https://poser.pugx.org/azi/validator/downloads.svg)](https://packagist.org/packages/pingle/validator) [![Latest Unstable Version](https://poser.pugx.org/azi/validator/v/unstable.svg)](https://packagist.org/packages/pingle/validator) [![License](https://poser.pugx.org/azi/validator/license.svg)](https://packagist.org/packages/pingle/validator) 
 
 You can install **Validator** either via package download from github or via composer install. I encourage you to do the latter:
  

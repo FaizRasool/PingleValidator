@@ -14,6 +14,7 @@ You can install **Validator** either via package download from github or via com
     "pingle/validator": "1.*"
   }
 } 
+```
 
 This is a small PHP class that makes it easy to validate forms in your project specially larger forms. Pingle Validator class provide the validation for the user input on the server side. 
 

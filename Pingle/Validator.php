@@ -1,5 +1,11 @@
 <?php
-class validation{
+namespace Pingle/Validator;
+
+/**
+ * Class Validator
+ * @package Pingle
+ */
+Class Validator{
 
     /*
     * @errors array
@@ -493,5 +499,4 @@ class validation{
         $this->sanitized[$var] = (string) filter_var($this->source[$var], FILTER_SANITIZE_STRING);
     }
     
-} /*** end of class ***/
-?>
+}

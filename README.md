@@ -6,11 +6,10 @@ Pingle Validator class provide the validation for the user input on the server s
 Basic usage
 ------------
 ```php
-//include the validation class
-require_once("library/Nextorvalidate.php"); 
+namespace pingle/Validator;
 
 //initialize the class
-$val = new validation;
+$val = new Validator();
 
 /*** use POST as the source ***/
 $val->addSource($_POST);

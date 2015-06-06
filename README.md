@@ -1,13 +1,26 @@
 Pingle Validator
 ===============
 
-Pingle Validator class provide the validation for the user input on the server side. 
+[![Build Status](https://travis-ci.org/azeemhassni/validator.svg?branch=v2.0)](https://travis-ci.org/azeemhassni/validator)
+[![Codacy Badge](https://www.codacy.com/project/badge/333e9f1f4abf4f6195e4a99b1a2e5766)](https://www.codacy.com/app/azibaloch247/validator)
+[![Latest Stable Version](https://poser.pugx.org/azi/validator/v/stable.svg)](https://packagist.org/packages/azi/validator) [![Total Downloads](https://poser.pugx.org/azi/validator/downloads.svg)](https://packagist.org/packages/azi/validator) [![Latest Unstable Version](https://poser.pugx.org/azi/validator/v/unstable.svg)](https://packagist.org/packages/azi/validator) [![License](https://poser.pugx.org/azi/validator/license.svg)](https://packagist.org/packages/azi/validator) 
+[![Join the chat at https://gitter.im/azeemhassni/validator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/azeemhassni/validator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+You can install **Validator** either via package download from github or via composer install. I encourage you to do the latter:
+ 
+```json  
+{ 
+  "require": {
+    "pingle/validator": "1.*"
+  }
+} 
+
+This is a small PHP class that makes it easy to validate forms in your project specially larger forms. Pingle Validator class provide the validation for the user input on the server side. 
 
 Basic usage
 ------------
 ```php
-
-namespace pingle/Validator;
+namespace Pingle/Validator;
 
 //initialize the class
 $val = new Validator();

@@ -1,0 +1,19 @@
+{
+  "name": "pingle/validator",
+  "description": "Server side user input validation library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Faiz Rasool",
+      "email": "faiz708@gmail.com"
+    }
+  ],
+  "autoload" : {
+    "psr-4": {
+      "azi\\" : ["Pingle/Validator"]
+    }
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}

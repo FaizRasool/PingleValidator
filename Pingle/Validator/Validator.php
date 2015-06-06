@@ -1,5 +1,5 @@
 <?php
-namespace Pingle;
+namespace Pingle\Validator;
 
 /**
  * Class Validator

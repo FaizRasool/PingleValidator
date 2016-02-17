@@ -10,7 +10,7 @@
   ],
   "autoload" : {
     "psr-4": {
-      "gigabyte\\cache\\": "src/cache"
+      "azi\\" : ["Pingle/Validator"]
     }
   },
   "require": {
